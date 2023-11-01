@@ -1,2 +1,2 @@
-docker stop spring-boot-graphql
-docker rm spring-boot-graphql
+docker stop graphql-demo
+docker rm graphql-demo
